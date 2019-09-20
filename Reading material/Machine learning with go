@@ -1,0 +1,14 @@
+CSV
+encoding/csv for parsing CSV files
+github.com/kniren/gota/dataframe and go-hep.org/x/hep/csvutil for manipulating or transforming CSV data
+csv.Reader.Comma and csv.Reader.Comment
+
+JSON
+encoding/json for parsing JSON files
+
+SQL-like
+database/sql
+github.com/lib/pq Postgres database driver
+
+Caching
+github.com/patrickmn/go-cache to cache a series of values in memory
